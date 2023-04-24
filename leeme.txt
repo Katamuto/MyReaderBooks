@@ -1,0 +1,21 @@
+¡Hola a todos, Soy Katamuto!
+
+Este programa lo empecé a escribir con el propósito de ser un sustituto al popular programa de lectura de "Balabolka". El cual utilizo bastante para escuchar mis libros favoritos mientras hago alguna otra actividad en la PC.
+
+Aunque por ahora es muy simple, espero seguir mejorándolo en el futuro.
+
+Mientras tanto, siéntete con la absoluta libertad de utilizar y modificar su código como quieras. Lo único que solicito es que compartas sus posibles mejoras para que podamos enriquecer el mundo de software libre.
+
+No tengo un cronograma ni estructura de trabajo determinada. Simplemente le agregaré lo que necesite cuando lo necesite. Pero esta es una pequeña lista de las mejoras que quiero que tenga (Y tendrá) en un futuro indeterminado.
+
+-Compatibilidad con otros TTS (Por ahora solo funciona con Festival en español).
+-Opción para elegir la voz y el idioma.
+-Control de velocidad de reproducción.
+-Exportar la reproducción en un archivo de audio.
+-Diccionarios personalizados para reemplazar palabras.
+-Soporte para formatos de libro digital (PDF, EPUB, MOBI, etc)
+-Recordar el progreso de lectura.
+
+Eso es lo mínimo a lo que aspiro.
+
+Un saludo a todos. Y disfrutadlo!
