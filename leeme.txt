@@ -8,7 +8,7 @@ Mientras tanto, siéntete con la absoluta libertad de utilizar y modificar su c�
 
 No tengo un cronograma ni estructura de trabajo determinada. Simplemente le agregaré lo que necesite cuando lo necesite. Pero esta es una pequeña lista de las mejoras que quiero que tenga (Y tendrá) en un futuro indeterminado.
 
--Compatibilidad con otros TTS (Por ahora solo funciona con Festival en español).
+-Compatibilidad con otros TTS (Por ahora solo funciona con Festival).
 -Opción para elegir la voz y el idioma.
 -Control de velocidad de reproducción.
 -Exportar la reproducción en un archivo de audio.

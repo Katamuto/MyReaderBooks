@@ -8,7 +8,7 @@ In the meantime, feel free to use and modify its code however you like. All I as
 
 I don't have a specific work schedule or structure. I'll just add whatever you need when you need it. But this is a small list of the improvements that I want it to have (and will have) in the indeterminate future.
 
--Compatibility with other TTS (For now it only works with Festival in Spanish).
+-Compatibility with other TTS (For now it only works with Festival).
 -Option to choose the voice and language.
 -Playback speed control.
 -Export playback in an audio file.
